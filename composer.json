@@ -1,0 +1,13 @@
+{
+    "name": "flametong/polis",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app",
+            "polis\\": "vendor/polis"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.7",
+      "ext-json": "*"
+    }
+}
